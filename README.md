@@ -5,7 +5,7 @@
 
  ### Hi, I'm Sanjiv Mishra, Cloud and DevOps Engineer.👋
 
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smishra04/)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjiv04/)
 <br />
 
 
